@@ -1,0 +1,3 @@
+Proyecto de estudios superior enfocado en la ceración de un modelo predictivo que ayude a predecir con eficacia si un estudiante universitario se verá afectado académicamente mediante un uso desmedido y malos hábitos de consumo de las redes sociales. Se llegó a la conclusión, 
+mediante las mediciones de las métricas pertinentes a los modelos entrenados Navie Bayes, Regresión Logística y J48, que hay un total de 3 características referidas del dataset original "" adquirido de Kaggle que terminaron siendo las más influyentes al momento de predecir
+si cuando afecta o no al rendimiento académico la adicción a las redes sociales a el rendimiento académico y siendo la Regresión logística el modelo más adecuado al momento de predecir este valor.
